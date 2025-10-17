@@ -4,7 +4,7 @@
   "exports": "./index.js",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
   },
   "peerDependencies": {
     "prettier": ">=3.0.0"
